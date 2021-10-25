@@ -1,0 +1,23 @@
+body{
+  background-color:cyan;
+}
+.heading{
+font-size: 64px;
+font-family:  'Qahiri', sans-serif;
+width: 100%;
+background-color: darkred;
+color: floralwhite;
+}
+.name_of_objects{
+ font-size: 32px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+ color:fuchsia;
+}
+label{
+ font-size:25px;
+ color:gold;
+}
+#result_object_name,#result_object_accuracy{
+font-size:45;
+color: lawngreen;
+}
